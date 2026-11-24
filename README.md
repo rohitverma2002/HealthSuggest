@@ -35,7 +35,7 @@ It uses a **rule-based scoring system** on top of a structured dataset of sympto
 - **Framework:** Django (MVT architecture)  
 - **Database (Recommended):** SQLite (default Django DB)  
 - **Frontend:** HTML, CSS, vanilla JavaScript, Django templates  
-- **Version Control:** Git & GitHub (`im-mayankverma/HealthSuggest`)  
+- **Version Control:** Git & GitHub (`rohitverma2002/HealthSuggest`)  
 - **Environment:** Python virtual environment (`venv`)
 
 ---
@@ -108,7 +108,7 @@ This is a **transparent, rule-based** system (no black-box machine learning).
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/im-mayankverma/HealthSuggest.git
+git clone https://github.com/rohitverma2002/HealthSuggest.git
 cd HealthSuggest
 ```
 
